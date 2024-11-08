@@ -8,6 +8,7 @@ body {
 .header {
     display:flex;
     justify-content: space-between;
+    color: #f9faf8;
     
 }
 
