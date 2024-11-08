@@ -8,7 +8,6 @@ body {
 .header {
     display:flex;
     justify-content: space-between;
-    
     margin: 0;
     display: flex;
     align-items: center;
@@ -16,7 +15,9 @@ body {
 }
 
 .left {
+    color:#f9faf8;
     font-size: 24px;
+    font-weight: bold;
 }
 
 ul {
