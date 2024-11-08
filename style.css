@@ -42,8 +42,8 @@ a {
 }
 
 .welcome {
-    height: 300px;
-    width: 300px;
+    height: 200px;
+    width: 200px;
 }
 
 .hero-main {
@@ -53,5 +53,10 @@ a {
 }
 
 .hero-secondary {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.sidebar {
     
 }
