@@ -1,0 +1,1 @@
+Wolf pictures are from pixabay and were licensed for free use.
