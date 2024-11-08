@@ -42,8 +42,8 @@ a {
 }
 
 .welcome {
-    height: 200px;
-    width: 200px;
+    height: auto;
+    width: 400px;
 }
 
 .hero-main {
@@ -63,5 +63,7 @@ a {
 }
 
 .body {
-    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
