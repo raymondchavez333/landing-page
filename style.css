@@ -8,6 +8,7 @@ body {
 .header {
     display:flex;
     justify-content: space-between;
+    
 }
 
 ul {
@@ -25,4 +26,5 @@ a {
 
 .header, .body {
     background-color: #1f2937;
+    padding: 20px 150px;
 }
