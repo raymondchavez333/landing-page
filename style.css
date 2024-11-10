@@ -66,6 +66,7 @@ a {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding-top: 150px;
 }
 
 .Sign-up {
@@ -110,9 +111,10 @@ a {
 
 .quote, .quote-author {
     width: 500px;
-    height: 200px;
+    height: 100px;
 }
 
 .quotation {
       
 }
+
