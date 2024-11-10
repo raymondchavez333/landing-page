@@ -108,14 +108,11 @@ a {
     padding-bottom: 30px;
 }
 
-.quote .quote-author {
-
+.quote, .quote-author {
+    width: 500px;
+    height: 200px;
 }
 
 .quotation {
-    width: 500px;
-    height: 200px;
-    
-
-    
+      
 }
