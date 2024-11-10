@@ -80,3 +80,8 @@ a {
 .modal {
     text-align: center;
 }
+
+.info img {
+    height: 100px;
+    width: 100px;
+}
