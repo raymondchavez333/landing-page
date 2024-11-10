@@ -89,6 +89,9 @@ a {
 
 .info .description {
     width: 150px;
+    font-size: 18px;
+    color: #424242;
+    
 }
 
 .info-container {
