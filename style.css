@@ -152,6 +152,7 @@ a {
     background-color: #3882f6;
     color: #f9faf8;
     padding: 50px 100px;
+    border-radius: 5px;
 }
 
 .footer {
@@ -165,8 +166,11 @@ a {
     background-color: #3882f6;
     color: #f9faf8;
     border-color: #f9faf8;
+    font-size: 18px;
+    padding: 5px 20px;
 }
 
 .header2 {
-    
+    font-weight: bold;
+    font-size: 24px;
 }
