@@ -138,6 +138,9 @@ a {
 
 .Call {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
+    gap: 100px;
     margin: 150px 150px;
+    align-items: center;
+    background-color: #3882f6;
 }
