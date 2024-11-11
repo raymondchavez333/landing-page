@@ -150,6 +150,8 @@ a {
     margin: 150px 150px;
     align-items: center;
     background-color: #3882f6;
+    color: #f9faf8;
+    padding: 50px 100px;
 }
 
 .footer {
@@ -161,4 +163,10 @@ a {
 .Sign-up2 {
     border-radius: 5px;
     background-color: #3882f6;
+    color: #f9faf8;
+    border-color: #f9faf8;
+}
+
+.header2 {
+    
 }
